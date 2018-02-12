@@ -12,6 +12,6 @@ python-telegram-bot module (tested with version 5.1.1)
 
 How to use
 
--Clone the repo
--Edit TOKEN and BOTNAME in bot.py
--Follow Bot instructions
+Clone the repo
+Edit TOKEN and BOTNAME in bot.py
+Follow Bot instructions
